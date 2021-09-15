@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'YHCategory'
+  s.name             = 'YHCategory-iOS'
   s.version          = '0.1.0'
   s.summary          = 'iOS常用的扩展，包含UIKit、Foundation以及QuartzCore'
 
