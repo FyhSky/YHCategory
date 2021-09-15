@@ -7,6 +7,7 @@
 //
 
 #import "YHViewController.h"
+#import "YHCategory.h"
 
 @interface YHViewController ()
 
